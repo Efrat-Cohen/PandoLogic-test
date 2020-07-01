@@ -6,6 +6,4 @@ and .Net Core API on the server side.
 To run the project:
 * Download the project.
 * Extract it.
-* Open cmd in clienApp folder (PandoLogic-test/PandoLogicTest/PandoLogicTest/ClientApp/).
-* Run command: npm install.
 * Run the project in visual studio.
