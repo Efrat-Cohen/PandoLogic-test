@@ -6,13 +6,7 @@ import { Component, AfterViewInit, ViewChild, ElementRef } from '@angular/core';
 })
 export class AppComponent{
   title = 'app';
-  
-
-
 
   AfterViewInit() {
-
   }
-
-
 }
