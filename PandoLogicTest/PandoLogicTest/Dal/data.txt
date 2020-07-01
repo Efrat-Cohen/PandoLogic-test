@@ -1,0 +1,190 @@
+{
+  "ListDataPerDay":[
+    {
+      "Day":"2020-05-01",
+      "ActiveJobs": 5,
+      "ComulativeJobViews": 0,
+      "ComulativePredictedJobView": 0
+    },
+	{
+      "Day":"2020-05-02",
+      "ActiveJobs": 4,
+      "ComulativeJobViews": 2,
+      "ComulativePredictedJobView": 4
+    },
+	{
+      "Day":"2020-05-03",
+      "ActiveJobs": 6,
+      "ComulativeJobViews": 3,
+      "ComulativePredictedJobView": 5
+    },
+	{
+      "Day":"2020-05-04",
+      "ActiveJobs": 6,
+      "ComulativeJobViews": 5,
+      "ComulativePredictedJobView": 8
+    },
+	{
+      "Day":"2020-05-05",
+      "ActiveJobs": 6,
+      "ComulativeJobViews": 7,
+      "ComulativePredictedJobView": 12
+    },
+	{
+      "Day":"2020-05-06",
+      "ActiveJobs": 8,
+      "ComulativeJobViews": 8,
+      "ComulativePredictedJobView": 13
+    },
+	{
+      "Day":"2020-05-07",
+      "ActiveJobs": 10,
+      "ComulativeJobViews": 10,
+      "ComulativePredictedJobView": 15
+    },
+	{
+      "Day":"2020-05-08",
+      "ActiveJobs": 12,
+      "ComulativeJobViews": 11,
+      "ComulativePredictedJobView": 16
+    },
+	{
+      "Day":"2020-05-09",
+      "ActiveJobs": 10,
+      "ComulativeJobViews": 12,
+      "ComulativePredictedJobView": 18
+    },
+	{
+      "Day":"2020-05-10",
+      "ActiveJobs": 10,
+      "ComulativeJobViews": 14,
+      "ComulativePredictedJobView": 20
+    },
+	{
+      "Day":"2020-05-11",
+      "ActiveJobs": 7,
+      "ComulativeJobViews": 16,
+      "ComulativePredictedJobView": 24
+    },
+	{
+      "Day":"2020-05-12",
+      "ActiveJobs": 8,
+      "ComulativeJobViews": 17,
+      "ComulativePredictedJobView": 26
+    },
+	{
+      "Day":"2020-05-13",
+      "ActiveJobs": 13,
+      "ComulativeJobViews": 19,
+      "ComulativePredictedJobView": 28
+    },
+	{
+      "Day":"2020-05-14",
+      "ActiveJobs": 9,
+      "ComulativeJobViews": 23,
+      "ComulativePredictedJobView": 28
+    },
+	{
+      "Day":"2020-05-15",
+      "ActiveJobs": 9,
+      "ComulativeJobViews": 25,
+      "ComulativePredictedJobView": 30
+    },
+	{
+      "Day":"2020-05-16",
+      "ActiveJobs": 8,
+      "ComulativeJobViews": 26,
+      "ComulativePredictedJobView": 31
+    },
+	{
+      "Day":"2020-05-17",
+      "ActiveJobs": 12,
+      "ComulativeJobViews": 27,
+      "ComulativePredictedJobView": 33
+    },
+	{
+      "Day":"2020-05-18",
+      "ActiveJobs": 12,
+      "ComulativeJobViews": 28,
+      "ComulativePredictedJobView": 34
+    },
+	{
+      "Day":"2020-05-19",
+      "ActiveJobs": 13,
+      "ComulativeJobViews": 29,
+      "ComulativePredictedJobView": 35
+    },
+	{
+      "Day":"2020-05-20",
+      "ActiveJobs": 11,
+      "ComulativeJobViews": 32,
+      "ComulativePredictedJobView": 36
+    },
+	{
+      "Day":"2020-05-21",
+      "ActiveJobs": 11,
+      "ComulativeJobViews": 33,
+      "ComulativePredictedJobView": 37
+    },
+	{
+      "Day":"2020-05-22",
+      "ActiveJobs": 12,
+      "ComulativeJobViews": 34,
+      "ComulativePredictedJobView": 38
+    },
+	{
+      "Day":"2020-05-23",
+      "ActiveJobs": 13,
+      "ComulativeJobViews": 35,
+      "ComulativePredictedJobView": 39
+    },
+	{
+      "Day":"2020-05-24",
+      "ActiveJobs": 12,
+      "ComulativeJobViews": 36,
+      "ComulativePredictedJobView": 40
+    },
+	{
+      "Day":"2020-05-25",
+      "ActiveJobs": 12,
+      "ComulativeJobViews": 37,
+      "ComulativePredictedJobView": 41
+    },
+	{
+      "Day":"2020-05-26",
+      "ActiveJobs": 9,
+      "ComulativeJobViews": 38,
+      "ComulativePredictedJobView": 42
+    },
+	{
+      "Day":"2020-05-27",
+      "ActiveJobs": 7,
+      "ComulativeJobViews": 39,
+      "ComulativePredictedJobView": 43
+    },
+	{
+      "Day":"2020-05-28",
+      "ActiveJobs": 8,
+      "ComulativeJobViews": 40,
+      "ComulativePredictedJobView": 45
+    },
+	{
+      "Day":"2020-05-29",
+      "ActiveJobs": 6,
+      "ComulativeJobViews": 41,
+      "ComulativePredictedJobView": 47
+    },
+	{
+      "Day":"2020-05-30",
+      "ActiveJobs": 6,
+      "ComulativeJobViews": 42,
+      "ComulativePredictedJobView": 48
+    },
+	{
+      "Day":"2020-05-31",
+      "ActiveJobs": 10,
+      "ComulativeJobViews": 43,
+      "ComulativePredictedJobView": 49
+    }
+	]
+}
